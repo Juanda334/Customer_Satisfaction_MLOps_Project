@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jv3250328/Downloads/Customer_Satisfaction_MLOps_Project/mlruns/0/23c9262d927f463f8e6aaa486e3fe637/artifacts
+end_time: 1756396756802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23c9262d927f463f8e6aaa486e3fe637
+run_name: resilient-squid-700
+run_uuid: 23c9262d927f463f8e6aaa486e3fe637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756396746512
+status: 3
+tags: []
+user_id: jv3250328

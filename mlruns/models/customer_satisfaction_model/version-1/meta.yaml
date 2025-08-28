@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1756414654893
+current_stage: None
+description: null
+last_updated_timestamp: 1756414654893
+name: customer_satisfaction_model
+run_id: a334f9533ead4087ba6e5a3a5c1bd8e7
+run_link: null
+source: file:///C:/Users/jv3250328/Downloads/Customer_Satisfaction_MLOps_Project/mlruns/502054579938344809/a334f9533ead4087ba6e5a3a5c1bd8e7/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/jv3250328/Downloads/Customer_Satisfaction_MLOps_Project/mlruns/502054579938344809/a334f9533ead4087ba6e5a3a5c1bd8e7/artifacts/model
+user_id: null
+version: 1
